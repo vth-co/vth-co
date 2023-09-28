@@ -5,6 +5,9 @@
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
  </img>
  </a>
+ <a href="https://vth-co.github.io/">
+   <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
+ </img>
  <a href="https://angel.co/u/vu-co">
    <img src=https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black>
  </img>
@@ -39,12 +42,15 @@
 
 </div>
 
-### Github Stats
+<!--
+// ### Github Stats
 
 <p align = "center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vth-co&count_private=true&show_icons=true&theme=algolia"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vth-co&show_icons=true&locale=en&layout=compact&theme=algolia"/>
 </p>
+
+-->
 
 
 ### Projects
@@ -56,6 +62,7 @@
 
 
 - 📫 How to reach me: vco.thien@gmail.com
+
 <!--
 **vth-co/vth-co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
