@@ -8,7 +8,7 @@
  <a href="https://vth-co.github.io/">
    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
  </img>
- <a href="https://angel.co/u/vu-co">
+ <a href="https://wellfound.com/u/vu-co">
    <img src=https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black>
  </img>
  </a>
